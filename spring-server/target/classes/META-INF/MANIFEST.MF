@@ -4,8 +4,7 @@ Implementation-Version: 1.0.0
 Built-By: Fornax
 Implementation-Vendor-Id: io.swagger
 Build-Jdk: 1.8.0_202
-Implementation-URL: http://projects.spring.io/spring-boot/swagger-spri
- ng/
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/swagger-spring
 Created-By: Maven Integration for Eclipse
-Implementation-Vendor: Pivotal Software, Inc.
 
